@@ -1,0 +1,19 @@
+#EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN!" max-conn="1" refresh="69" list-name="IPTV M3U"
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
+https://azt-cl.otteravision.com/azt/cl/cl.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png" tvg-name="AZ Corazon" group-title="Entretenimiento",AZ Corazon
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" tvg-name="Azteca Uno -1 hora" group-title="Entretenimiento",Azteca Uno -1hr
+https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png" tvg-name="AZ Mundo" group-title="Entretenimiento",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="FOX" group-title="Deportes", FOX en Tubi
+https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="ITV Deportes" group-title="Deportes", ITV Deportes
+https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
+https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8
