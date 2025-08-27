@@ -9,11 +9,61 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png" tvg-name="AZ Mundo" group-title="Entretenimiento",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="CanalVIX" group-title="Univision Now", Canal VIX
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max 2
+https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="FOX" group-title="Deportes", FOX en Tubi
-https://aegis-cloudfront-1.tubi.video/568a05ce-4b59-4c9e-98f6-757cdf106597/playlist720p.m3u8
+https://aegis-cloudfront-1.tubi.video/cb1aab3f-2082-4ee1-a55e-25b817aefb14/playlist.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision West" group-title="Univision Now", Galavision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="ITV Deportes" group-title="Deportes", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="Univision247" group-title="Univision Now", Noticias Univision 24/7
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
+https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas East" group-title="Univision Now", Unimás East
+https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas West" group-title="Univision Now", Unimás West
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfut-tv-us-nj.svg" tvg-name="WFUT" group-title="Univision Now", Unimás Nueva York WFUT
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kftr-dt-us-ca.svg" tvg-name="KFTR" group-title="Univision Now", Unimás 46 Los Ángeles KFTR
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision East" group-title="Univision Now", Univision East
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision West" group-title="Univision Now", Univision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdtv-tv-us-ca.svg" tvg-name="KDTV" group-title="Univision Now", Univision 14 Área De La Bahiá KDTV
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuvn-tv-us-tx.svg" tvg-name="KUVN" group-title="Univision Now", Univision 23 Dallas - Fort-Worth TX KUVN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wltv-tv-us-fl.svg" tvg-name="WLTV" group-title="Univision Now", Univision 23 Miami FL WLTV
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuvg-tv-us-ga.svg" tvg-name="WUVG" group-title="Univision Now", Univision 34 Atlanta WUVG
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex-tv-us-ca.svg" tvg-name="KMEX" group-title="Univision Now", Univision 34 Los Ángeles KMEX
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv-tv-us-nj.svg" tvg-name="WXTV" group-title="Univision Now", Univision 41 Nueva York WXTV
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kxln_houston.png" tvg-name="KXLN" group-title="Univision Now", Univision 45 Houston TX KXLN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
