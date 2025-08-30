@@ -67,7 +67,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now" group-logo="https://iili.io/KFUHkgI.webp", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-0, tvg-logo="logo" tvg-name="MGM+ Hits" group-title="MGM+", MGM+ Hits
+#EXTINF:-0, group-title="MGM+" group-title="https://iili.io/KFUHkgI.webp" tvg-logo="logo" tvg-name="MGM+ Hits" , MGM+ Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2e177abdd25b476dbb474fa7c2ee76b3":"dc43cb2d4bd48774ef9620fda1158060"}
