@@ -88,7 +88,4 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Arena Sport 1" group-title="Antik Telecom SK", Arena Sport 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
-https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd
+drm:clearkey:https://dash3.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd|keyid=11223344556677889900112233445566;key=4b80724d0ef86bcb2c21f7999d67739d
