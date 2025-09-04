@@ -15,7 +15,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max 2
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8
-#EXTINF:-0, tvg-logo="logo" tvg-name="FOX" group-title="Deportes", FOX en Tubi
+#EXTINF:-0, tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/fox-network-logo.png" tvg-name="FOX" group-title="Deportes", FOX en Tubi
 https://aegis-cloudfront-1.tubi.video/cb1aab3f-2082-4ee1-a55e-25b817aefb14/playlist.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
@@ -27,7 +27,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgmplus-us.svg" tvg-name="MGM+" group-title="MGM+", MGM+
+#EXTINF:-0, tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" tvg-name="MGM+" group-title="MGM+", MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34bbe1d5cad94e81a2f2eb3275611f85":"7e6a42fbe78e7ff8c20cb4eeb475ed17"}
@@ -51,6 +51,8 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
+http://190.83.2.178:8013/play/a056/index.m3u8
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
