@@ -94,48 +94,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-
-Canal Claro http://45.5.119.97:12500/play/a02c/index.m3u8
-Cine Latino http://45.5.119.97:12500/play/a06v/index.m3u8
-Cinemax http://45.5.119.97:12500/play/a06w/index.m3u8
-Claro Sports http://45.5.119.97:12500/play/a024/index.m3u8
-Comedy Central http://45.5.119.97:12500/play/a05x/index.m3u8
-DHE http://45.5.119.97:12500/play/a03o/index.m3u8
-ExaTV http://45.5.119.97:12500/play/a05l/index.m3u8
-FUTV CR http://45.5.119.97:12500/play/a066/index.m3u8
-HTV http://45.5.119.97:12500/play/a04p/index.m3u8
-Latin American Sports http://45.5.119.97:12500/play/a04n/index.m3u8
-MTV http://45.5.119.97:12500/play/a06r/index.m3u8
-Multicinema http://45.5.119.97:12500/play/a04s/index.m3u8
-Multipremier http://45.5.119.97:12500/play/a06u/index.m3u8
-Playboy LATAM http://45.5.119.97:12500/play/a02b/index.m3u8
-RCN Novelas http://45.5.119.97:12500/play/a04d/index.m3u8
-Sun Channel http://45.5.119.97:12500/play/a04h/index.m3u8
-Tigo Sports http://45.5.119.97:12500/play/a05q/index.m3u8
-Venus http://45.5.119.97:12500/play/a04u/index.m3u8
-DePelicula http://45.5.119.97:12500/play/a07y/index.m3u8
-Azteca Honduras http://190.83.2.178:8013/play/a03o/index.m3u8
-BandaMax http://190.83.2.178:8013/play/a05t/index.m3u8
-BeatBox http://190.83.2.178:8013/play/a044/index.m3u8
-Cine Mexicano http://190.83.2.178:8013/play/a017/index.m3u8
-MexiCanal http://190.83.2.178:8013/play/a02o/index.m3u8
-NickMusic http://190.83.2.178:8013/play/a01j/index.m3u8
-Platino http://190.83.2.178:8013/play/a01h/index.m3u8
-Platino 2 http://190.83.2.178:8013/play/a01a/index.m3u8
-Panico http://190.83.2.178:8013/play/a07f/index.m3u8
-Telemundo Miami http://190.83.2.178:8013/play/a045/index.m3u8
-VideoRola http://190.83.2.178:8013/play/a016/index.m3u8
-Teleritmo http://190.83.2.178:8013/play/a04h/index.m3u8
-VR+ https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
-VideoRola https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
-
-#EXTINF:-0, tvg-logo="logo" tvg-name="Name" group-title="title", Name
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c1":"c1","c2":"c2"}
-insert mpd (copy everytime!)
-
-
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", PBS KERA (KERA-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -156,9 +114,3 @@ https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
 https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081
-
-
-
-
-
-
