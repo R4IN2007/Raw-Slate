@@ -94,3 +94,24 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", PBS KERA (KERA-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f04f65dfa8f747cf9c22124590d9c07f":"4f9d4405ec2c618d0be09b6712ad3e86"}
+https://keradt.lls.pbs.org/out/v1/1e7b1562e03e437f82089ed56b410c1e/dash-drm.mpd
+#EXTINF:-0, tvg-logo="logo" tvg-name="MPB WMPN" group-title="PBS Local", MPB WMPN (WMPN-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2b4510e4e71142f3b6c8586efecaf32f":"dc563b5767d4912ce857be926dee3295"}
+https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", PBS WKNO (WKNO-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5db6ca2f5c194e2c96c2073c72bc514f":"4670dd8c8f19fff96c126539fff93ef7"}
+https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS Kids WKNO" group-title="PBS Local", PBS Kids WKNO (WKNO-DT3)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
+https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081
+
