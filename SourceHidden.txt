@@ -116,4 +116,4 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
 
 #EXTINF:-0, tvg-logo="logo" tvg-name="Discovery Familia" group-title="DISH LATINO", Discovery Familia
-http://74.91.28.122:46200/stream/estenoesmio/discoveryfamilia/master.m3u8
+http://74.91.28.122:46200/stream/estenoesmio/discoveryfamilia/master.m3u8?0GKUSH_R4IN
