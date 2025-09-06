@@ -124,5 +124,5 @@ https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 UNIVERSO CHANNEL
+#EXTINF:-0, tvg-logo="logo" tvg-name="UNIVERSO" group-title="DISH TEST", UNIVERSO CHANNEL
 https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/927/20250906T020000Z/20250906T040000Z/spanning_ads-real-pto.mpd
