@@ -114,3 +114,15 @@ https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
 https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://p-drmwv.movetv.com/widevine/proxy
+#EXTGRP:DISH TV
+#EXTVLCOPT:http-referrer=https://dishanywhere.com/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 UNIVERSO CHANNEL
+https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/927/20250906T020000Z/20250906T040000Z/spanning_ads-real-pto.mpd
