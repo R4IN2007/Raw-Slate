@@ -114,3 +114,9 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+
+#EXTINF:-0, tvg-logo="logo" tvg-name="Discovery Familia" group-title="DISH LATINO", Discovery Familia
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"374ae4cb51eb4ba0997f42e0ae61e671":"45bd8c0b1baace54ab03c5b1288e37b1"}
+https://p-dynaman.movetv.com/manifest/1107/playready/master.m3u8?account_status=active&ad_tracking_allowed=true&billing_zip=92618&brand=sling&device_model=Edge&device_name=browser&location_zip=84105&os_name=Windows&os_version=10&qvt=https%3A%2F%2Fcbd46b77.cdn.cms.movetv.com%2Fplayermetadata%2Fsling%2Fv1%2Fapi%2Fchannels%2F4abf71077b3142169d5c3a864e62c125%2Fschedule.qvt&subscriber_id=247dcaac-1d5a-11f0-aab4-0affd04ce353&support_mode=false&profile_type=admin&playback_delay=45&client_session_id=undefined&dma=770
