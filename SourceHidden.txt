@@ -115,5 +115,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
 
-#EXTINF:-0, tvg-logo="logo" tvg-name="Discovery Familia" group-title="DISH LATINO", Discovery Familia
-http://74.91.28.122:46200/stream/estenoesmio/discoveryfamilia/master.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="A&E" group-title="IZZI GO MÉXICO", A&E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd
