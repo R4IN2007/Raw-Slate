@@ -54,16 +54,28 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
 https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS Create" group-title="PBS Local", PBS Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS FNX" group-title="PBS Local", PBS FNX
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS NHK Japan World" group-title="PBS Local", PBS NHK Japan World
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS World" group-title="PBS Local", PBS World
+https://world.lls.pbs.org/index.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", PBS KERA (KERA-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f04f65dfa8f747cf9c22124590d9c07f":"4f9d4405ec2c618d0be09b6712ad3e86"}
 https://keradt.lls.pbs.org/out/v1/1e7b1562e03e437f82089ed56b410c1e/dash-drm.mpd
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", KERA Create (KERA-DT3)
+https://keradt3.lls.pbs.org/keradt3-hls.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", PBS WKNO (WKNO-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5db6ca2f5c194e2c96c2073c72bc514f":"4670dd8c8f19fff96c126539fff93ef7"}
 https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd
+#EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", WKNO2 (WKNO-DT2)
+https://wknodt2.lls.pbs.org/wknodt2-hls.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS Kids WKNO" group-title="PBS Local", PBS Kids WKNO (WKNO-DT3)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +131,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-0, tvg-logo="logo" tvg-name="A&E" group-title="IZZI GO México", A&E
+#EXTINF:-0, tvg-logo="logo" tvg-name="A&E" group-title="Izzi Go México", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
