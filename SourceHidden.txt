@@ -143,3 +143,8 @@ https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+
+#EXTINF:-1 tvg-id="National.Geographic.Wild.cz" tvg-name="0000" tvg-logo="https://i.postimg.cc/X7Hr1wTQ/Nat-Geo-Wild.png" group-title="ATIK SK",CZ| Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
