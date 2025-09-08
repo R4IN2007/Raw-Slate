@@ -145,4 +145,4 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #EXTINF:-1 tvg-id="AXN.cz" tvg-name="0000" tvg-logo="logo" group-title="ANTIK SK",CZ| AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?OGKUSH_R4IN
