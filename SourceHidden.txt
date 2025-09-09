@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="(PRIVATE LIST MADE BY R4IN!) [ANY RESELLERS BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
+#EXTM3U billed-msg="(PRIVATE LIST MADE BY R4IN!) [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
 #EXTINF:-0, tvg-logo="logo" tvg-name="ABC KAKE" group-title="USA Local", ABC 10 KAKE Wichita KS (KAKE-DT1) [NOT24/7]
 https://live.field59.com/kake/kake1/chunklist.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
