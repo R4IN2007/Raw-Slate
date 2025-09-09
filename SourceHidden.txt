@@ -1,202 +1,202 @@
 #EXTM3U billed-msg="(PRIVATE LIST MADE BY R4IN!) [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
-https://aym-as.otteravision.com/aym/as/as.m3u8?OGKUSH_R4IN
+https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
-https://azt-cl.otteravision.com/azt/cl/cl.m3u8?OGKUSH_R4IN
+https://azt-cl.otteravision.com/azt/cl/cl.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png" tvg-name="AZ Corazon" group-title="Entretenimiento",AZ Corazon
-https://azt-cz.otteravision.com/azt/cz/cz.m3u8?OGKUSH_R4IN
+https://azt-cz.otteravision.com/azt/cz/cz.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" tvg-name="Azteca Uno -1 hora" group-title="Entretenimiento",Azteca Uno -1hr
-https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?OGKUSH_R4IN
+https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png" tvg-name="AZ Mundo" group-title="Entretenimiento",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8?OGKUSH_R4IN
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="CanalVIX" group-title="Univision Now", Canal VIX
-https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max
-https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?OGKUSH_R4IN
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max 2
-https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?OGKUSH_R4IN
+https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png tvg-name="Canal FOX" group-title="Deportes", FOX en Tubi
-http://NO-NEW-LINK/hls.m3u8?OGKUSH_R4IN
+http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Galavision West" group-title="Univision Now", Galavision West
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
-https://igd-it-runtime.otteravision.com/igd/it/it.m3u8?OGKUSH_R4IN
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="ITV Deportes" group-title="Deportes", ITV Deportes
-https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?OGKUSH_R4IN
+https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?OGKUSH_R4IN
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" tvg-name="MGM+" group-title="MGM+", MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34bbe1d5cad94e81a2f2eb3275611f85":"7e6a42fbe78e7ff8c20cb4eeb475ed17"}
-https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd?OGKUSH_R4IN
+https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-hits-us.png" tvg-name="MGM+ Hits" group-title="MGM+", MGM+ Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2e177abdd25b476dbb474fa7c2ee76b3":"dc43cb2d4bd48774ef9620fda1158060"}
-https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd?OGKUSH_R4IN
+https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-drive-in-us.png" tvg-name="MGM+ Drive-In" group-title="MGM+", MGM+ Drive-In
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2aa5443eab3841fca0804ed7df621e21":"f6337da72d318e72e77742c7f8d2e698"}
-https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd?OGKUSH_R4IN
+https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" tvg-name="MGM+ Marquee" group-title="MGM+", MGM+ Marquee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f2032b4cae944a0adf5ce111a2ff693":"2b4a2855b0abde035714985be6db4bd0"}
-https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?OGKUSH_R4IN
+https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Univision247" group-title="Univision Now", Noticias Univision 24/7
-https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" tvg-name="NOVO19" group-title="France", Novo19
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400&OGKUSH_R4IN
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400&0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS Create" group-title="PBS Local", PBS Create
-https://create.lls.pbs.org/index.m3u8?OGKUSH_R4IN
+https://create.lls.pbs.org/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS FNX" group-title="PBS Local", PBS FNX
-https://fnx.lls.pbs.org/index.m3u8?OGKUSH_R4IN
+https://fnx.lls.pbs.org/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS NHK Japan World" group-title="PBS Local", PBS NHK Japan World
-https://nhk.lls.pbs.org/index.m3u8?OGKUSH_R4IN
+https://nhk.lls.pbs.org/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS World" group-title="PBS Local", PBS World
-https://world.lls.pbs.org/index.m3u8?OGKUSH_R4IN
+https://world.lls.pbs.org/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", PBS KERA (KERA-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f04f65dfa8f747cf9c22124590d9c07f":"4f9d4405ec2c618d0be09b6712ad3e86"}
-https://keradt.lls.pbs.org/out/v1/1e7b1562e03e437f82089ed56b410c1e/dash-drm.mpd?OGKUSH_R4IN
+https://keradt.lls.pbs.org/out/v1/1e7b1562e03e437f82089ed56b410c1e/dash-drm.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", KERA Create (KERA-DT3)
-https://keradt3.lls.pbs.org/keradt3-hls.m3u8?OGKUSH_R4IN
+https://keradt3.lls.pbs.org/keradt3-hls.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", PBS WKNO (WKNO-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5db6ca2f5c194e2c96c2073c72bc514f":"4670dd8c8f19fff96c126539fff93ef7"}
-https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd?OGKUSH_R4IN
+https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", WKNO2 (WKNO-DT2)
-https://wknodt2.lls.pbs.org/wknodt2-hls.m3u8?OGKUSH_R4IN
+https://wknodt2.lls.pbs.org/wknodt2-hls.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS Kids WKNO" group-title="PBS Local", PBS Kids WKNO (WKNO-DT3)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
-https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081&OGKUSH_R4IN
+https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081&0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="MPB WMPN" group-title="PBS Local", MPB WMPN (WMPN-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2b4510e4e71142f3b6c8586efecaf32f":"dc563b5767d4912ce857be926dee3295"}
-https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?OGKUSH_R4IN
+https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
-https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?OGKUSH_R4IN
+https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Teleritmo" group-title="Musica", Teleritmo
-http://190.83.2.178:8013/play/a04h/index.m3u8?OGKUSH_R4IN
+http://190.83.2.178:8013/play/a04h/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN
-http://190.83.2.178:8013/play/a056/index.m3u8?OGKUSH_R4IN
+http://190.83.2.178:8013/play/a056/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&OGKUSH_R4IN
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Universal Premiere" group-title="Universal+", Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
-https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd?OGKUSH_R4IN
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas East" group-title="Univision Now", Unimás East
-https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas West" group-title="Univision Now", Unimás West
-https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfut-tv-us-nj.svg" tvg-name="WFUT" group-title="Univision Now", Unimás Nueva York WFUT
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kftr-dt-us-ca.svg" tvg-name="KFTR" group-title="Univision Now", Unimás 46 Los Ángeles KFTR
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision East" group-title="Univision Now", Univision East
-https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision West" group-title="Univision Now", Univision West
-https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdtv-tv-us-ca.svg" tvg-name="KDTV" group-title="Univision Now", Univision 14 Área De La Bahiá KDTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuvn-tv-us-tx.svg" tvg-name="KUVN" group-title="Univision Now", Univision 23 Dallas - Fort-Worth TX KUVN
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wltv-tv-us-fl.svg" tvg-name="WLTV" group-title="Univision Now", Univision 23 Miami FL WLTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuvg-tv-us-ga.svg" tvg-name="WUVG" group-title="Univision Now", Univision 34 Atlanta WUVG
-https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex-tv-us-ca.svg" tvg-name="KMEX" group-title="Univision Now", Univision 34 Los Ángeles KMEX
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv-tv-us-nj.svg" tvg-name="WXTV" group-title="Univision Now", Univision 41 Nueva York WXTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kxln_houston.png" tvg-name="KXLN" group-title="Univision Now", Univision 45 Houston TX KXLN
-https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
-https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
-http://190.83.2.178:8013/play/a016/index.m3u8?OGKUSH_R4IN
+http://190.83.2.178:8013/play/a016/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?OGKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", VR+
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?OGKUSH_R4IN
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", Video Rola+
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?OGKUSH_R4IN
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="A&E" group-title="Izzi Go MX", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?OGKUSH_R4IN
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="NBA TV" group-title="Cignal TV", NBA TV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?OGKUSH_R4IN
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0 tvg-logo="logo" tvg-name="AMC" group-title="ANTIK",AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="AXN" group-title="ANTIK", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="AXN Black" group-title="ANTIK", AXN Black
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="AXN White" group-title="ANTIK", AXN White
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="CrimeInvestigation" group-title="ANTIK",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="Disney Channel" group-title="ANTIK", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="DisneyJr" group-title="ANTIK", Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="H2" group-title="ANTIK", H2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="History" group-title="ANTIK", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="NickJr" group-title="ANTIK", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="Nick" group-title="ANTIK", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTINF:-0 tvg-logo="logo" tvg-name="NickToons" group-title="ANTIK", Nicktoon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?OGKUSH_R4IN
+https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
