@@ -1,6 +1,5 @@
+
 #EXTM3U billed-msg="(PRIVATE LIST MADE BY R4IN!) [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
-#EXTINF:-0, tvg-logo="logo" tvg-name="ABC KAKE" group-title="USA Local", ABC 10 KAKE Wichita KS (KAKE-DT1) [NOT24/7]
-https://live.field59.com/kake/kake1/chunklist.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
 https://aym-as.otteravision.com/aym/as/as.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
@@ -90,6 +89,8 @@ https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/
 https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?OGKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="Teleritmo" group-title="Musica", Teleritmo
+http://190.83.2.178:8013/play/a04h/index.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN
 http://190.83.2.178:8013/play/a056/index.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
@@ -131,18 +132,27 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?OGKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
+http://190.83.2.178:8013/play/a016/index.m3u8?OGKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?OGKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", VR+
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?OGKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?OGKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="A&E" group-title="Izzi Go MX", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?OGKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="NBA TV" group-title="Cignal TV", NBA TV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?OGKUSH_R4IN
+#EXTM3U
 #EXTINF:-0 tvg-logo="logo" tvg-name="AMC" group-title="ANTIK",AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
