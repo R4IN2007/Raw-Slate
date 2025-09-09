@@ -88,8 +88,8 @@ https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/
 https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Teleritmo" group-title="Musica", Teleritmo
-http://190.83.2.178:8013/play/a04h/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="Telemundo Miami" group-title="Entretenimiento", Telemundo Miami
+http://190.83.2.178:8013/play/a045/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN
 http://190.83.2.178:8013/play/a056/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
@@ -131,8 +131,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
-http://190.83.2.178:8013/play/a016/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", Video Rola+
@@ -200,3 +198,9 @@ https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, tvg-logo="logo" tvg-name="NEXT" group-title="PlayMe TV ARG", NEXT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apps.playme.com.ar/drm/wv/license
+https://apps.playme.com.ar/dash/CH_NEXT/playlist.mpd?0GKUSH_R4IN
