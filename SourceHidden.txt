@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="(PRIVATE LIST MADE BY R4IN!) [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
+#EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
 https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
