@@ -201,3 +201,5 @@ https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="JAV" tvg-logo="https://iili.io/KAlobuj.jpg",  [STARS-818] Rei Kamiki 神木麗
 https://32c49d80.sparkvibe33.store/blah3/XEn0ezAekFvTgxX3A7ZKZYD9gVp3h4BOCOHetBqPgxcFzdE/qb/v.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="GTIPTV6" group-logo="logo" tvg-logo="logo", Azteca Uno
+https://raw.githubusercontent.com/R4IN2007/Raw-Slate/refs/heads/main/SourceHidden/AZ-UNO.php
