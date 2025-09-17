@@ -718,3 +718,8 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
 #EXTVLCOPT:adult-content=1
 https://dba738b5.dreampulse88.site/blah3/XEn0ezAAjwPK3UvwUqJFN9i2gkxqx4JGA7fX9gSajRIAzA/video.m3u8?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-1, group-title="MVS" group-logo="logo" tvg-logo="logo", ExaTV
+#EXTVLCOPT:http-referrer=https://exa.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
