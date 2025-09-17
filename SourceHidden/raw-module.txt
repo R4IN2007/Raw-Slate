@@ -708,7 +708,7 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg", Univision 66 Chicago WGBO
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo" , Zona TUDN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo", Zona TUDN
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
