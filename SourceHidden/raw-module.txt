@@ -600,6 +600,7 @@ insert mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Musica" group-logo="logo" tvg-logo="logo", ExaTV
 #EXTVLCOPT:http-referrer=https://exa.tv/
+#EXTVLCOPT:http-origin=https://exa.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
