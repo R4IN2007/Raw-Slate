@@ -72,17 +72,17 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", Esports Max
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", Esports Max 2 | Rek TV
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", Esports Max 2 | Rek TV
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", ITV Deportes
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="France" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
@@ -670,46 +670,46 @@ https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="CanalVIX" group-title="Univision Now", Canal VIX
-https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision West" group-title="Univision Now", Galavision West
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Univision247" group-title="Univision Now", Noticias Univision 24/7
-https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas East" group-title="Univision Now", Unimás East
-https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas West" group-title="Univision Now", Unimás West
-https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfut-tv-us-nj.svg" tvg-name="WFUT" group-title="Univision Now", Unimás Nueva York WFUT
-https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kftr-dt-us-ca.svg" tvg-name="KFTR" group-title="Univision Now", Unimás 46 Los Ángeles KFTR
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision East" group-title="Univision Now", Univision East
-https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" tvg-name="Univision West" group-title="Univision Now", Univision West
-https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdtv-tv-us-ca.svg" tvg-name="KDTV" group-title="Univision Now", Univision 14 Área De La Bahiá KDTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuvn-tv-us-tx.svg" tvg-name="KUVN" group-title="Univision Now", Univision 23 Dallas - Fort-Worth TX KUVN
-https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wltv-tv-us-fl.svg" tvg-name="WLTV" group-title="Univision Now", Univision 23 Miami FL WLTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuvg-tv-us-ga.svg" tvg-name="WUVG" group-title="Univision Now", Univision 34 Atlanta WUVG
-https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex-tv-us-ca.svg" tvg-name="KMEX" group-title="Univision Now", Univision 34 Los Ángeles KMEX
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv-tv-us-nj.svg" tvg-name="WXTV" group-title="Univision Now", Univision 41 Nueva York WXTV
-https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/kk/kxln_houston.png" tvg-name="KXLN" group-title="Univision Now", Univision 45 Houston TX KXLN
-https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
-https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo" , Canal VIX
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galavision_east.png", Galavision East
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galavision_east.png", Galavision West
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo", Noticias Univision 24/7
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás East
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás West
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wfut-tv-us-nj.svg", Unimás Nueva York WFUT
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kftr-dt-us-ca.svg", Unimás 46 Los Ángeles KFTR
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png", Univision East
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png", Univision West
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kdtv-tv-us-ca.svg", Univision 14 Área De La Bahiá KDTV
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuvn-tv-us-tx.svg", Univision 23 Dallas - Fort-Worth TX KUVN
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wltv-tv-us-fl.svg", Univision 23 Miami FL WLTV
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wuvg-tv-us-ga.svg", Univision 34 Atlanta WUVG
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kmex-tv-us-ca.svg", Univision 34 Los Ángeles KMEX
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wxtv-tv-us-nj.svg", Univision 41 Nueva York WXTV
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kxln_houston.png", Univision 45 Houston TX KXLN
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg", Univision 66 Chicago WGBO
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo" , Zona TUDN
+https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
 #EXTVLCOPT:adult-content=1
