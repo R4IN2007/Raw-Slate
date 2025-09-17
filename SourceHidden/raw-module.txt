@@ -72,24 +72,20 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="logo", Esports Max
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="logo", Esports Max 2 | Rek TV
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Esports Max 2 | Rek TV
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+#EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="logo", ITV Deportes
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
-#EXTM3U
-#EXTINF:-0, group-title="France" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400&0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -602,7 +598,9 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
+#EXTINF:-0, group-title="Musica" group-logo="logo" tvg-logo="logo", ExaTV
+#EXTVLCOPT:http-referrer=https://exa.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
 http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
@@ -668,7 +666,7 @@ https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/
 #KODIPROP:inputstream.adaptive.license_key={"2b4510e4e71142f3b6c8586efecaf32f":"dc563b5767d4912ce857be926dee3295"}
 https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?0GKUSH_R4IN
 #EXM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="Universal Premiere" group-title="Universal+", Universal Premiere
+#EXTINF:-0, group-title="Universal+" group-logo="logo" tvg-logo="logo" , Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
@@ -718,8 +716,3 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
 #EXTVLCOPT:adult-content=1
 https://dba738b5.dreampulse88.site/blah3/XEn0ezAAjwPK3UvwUqJFN9i2gkxqx4JGA7fX9gSajRIAzA/video.m3u8?0GKUSH_R4IN
-#EXTM3U
-#EXTINF:-1, group-title="MVS" group-logo="logo" tvg-logo="logo", ExaTV
-#EXTVLCOPT:http-referrer=https://exa.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
