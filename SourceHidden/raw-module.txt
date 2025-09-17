@@ -72,17 +72,17 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", Esports Max
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-name="logo", Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", Esports Max 2 | Rek TV
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-name="logo", Esports Max 2 | Rek TV
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="logo", ITV Deportes
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-name="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-name="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-name="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="France" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
