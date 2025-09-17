@@ -77,7 +77,7 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="logo", Esports Max 2 | Rek TV
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
-http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" group-logo="https://i.ibb.co/pvd2nX1V/dpoerts.png" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
@@ -602,9 +602,13 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
+https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
+http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", Video Rola+
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" tvg-name="MGM+" group-title="MGM+", MGM+
