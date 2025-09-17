@@ -1,5 +1,61 @@
 #EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes", AYM HD
+#EXTM3U
+#EXTINF:-0 tvg-logo="logo" tvg-name="AMC" group-title="Antik SK",AMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="AXN" group-title="Antik SK", AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="AXN Black" group-title="Antik SK", AXN Black
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="AXN White" group-title="Antik SK", AXN White
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="CrimeInvestigation" group-title="Antik SK",Crime & Investigation
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="Disney Channel" group-title="Antik SK", Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="DisneyJr" group-title="Antik SK", Disney Jr
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="H2" group-title="Antik SK", H2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="History" group-title="Antik SK", History
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="NickJr" group-title="Antik SK", Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="Nick" group-title="Antik SK", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0 tvg-logo="logo" tvg-name="NickToons" group-title="Antik SK", Nicktoon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, tvg-logo="logo" tvg-name="NBA TV" group-title="Cignal TV", NBA TV Philippines
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes" group-logo="logo" , AYM HD
 https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8?0GKUSH_R4IN
@@ -9,24 +65,548 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8?0GKUSH_R4IN
 https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png" tvg-name="AZ Mundo" group-title="Entretenimiento",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="CanalVIX" group-title="Univision Now", Canal VIX
-https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max
-https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Esports Max" group-title="Deportes", Esports Max 2
-https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png tvg-name="Canal FOX" group-title="Deportes", FOX en Tubi
-http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
-https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision West" group-title="Univision Now", Galavision West
-https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen-informativa-mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="ITV Deportes" group-title="Deportes", ITV Deportes
-https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
+https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTM3U
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", Esports Max
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", Esports Max 2 | Rek TV
+https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+http://NO-NEW-LINK/hls.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="logo", ITV Deportes
+https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png" tvg-name="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" group-logo="https://i.postimg.cc/TYbP0SW-S/dpoerts.png"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, group-title="France" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400&0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A&E
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo" , A3Cine
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Adrenalina Sports Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Adult Swim
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Animal Planet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Antena3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A3Series Internacional
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Azteca Uno
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Azteca 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", BabyTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Bandamax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", BITME
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Canal 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Cinecanal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Cinemax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Comedy Central
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", CV Shopping
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", DePelicula Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", DePelicula
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery ID
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery Kids
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery Science
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery Theather
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery Turbo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Discovery World
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Disney Jr
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Distrito Comedia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", E! Entertairment
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", El Financiero
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", ESPN2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", ESPN3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Europa Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Film&Arts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Food Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", ForoTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Fox Sports 2 MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Fox Sports 3 MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Fox Sports MX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", FX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golden Edge
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golden Multiplex
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golden Premiere 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golden Premiere
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golden
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Golf Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Gourmet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Mudi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Pop
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO Xtreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", HBO2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", History2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", History Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Hola TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Imagen TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Lifetime
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", MasChic
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Milenio
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", MTV Live
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", NatGeo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", NBA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", NFL Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Once
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Paramount Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", PX Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sky Sports 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sky Sports 21
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sky Sports 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sky Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sony
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sony Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Space
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Star Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Star TVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Studio Universal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TCM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Telefe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Teleformula
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Telehit
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TLC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TLNovelas
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TNT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TNT Novelas
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TNT Series
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TUDN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", TVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Unicable
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Universal Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Universal Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Universal Crime
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Universal Reality
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Warner Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
+insert mpd?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", Video Rola+
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?0GKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" tvg-name="MGM+" group-title="MGM+", MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,13 +627,10 @@ https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f2032b4cae944a0adf5ce111a2ff693":"2b4a2855b0abde035714985be6db4bd0"}
 https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Univision247" group-title="Univision Now", Noticias Univision 24/7
-https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" tvg-name="NOVO19" group-title="France", Novo19
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400&0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
+https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS Create" group-title="PBS Local", PBS Create
 https://create.lls.pbs.org/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="PBS FNX" group-title="PBS Local", PBS FNX
@@ -86,23 +663,23 @@ https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2b4510e4e71142f3b6c8586efecaf32f":"dc563b5767d4912ce857be926dee3295"}
 https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
-https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Telemundo Miami" group-title="Entretenimiento", Telemundo Miami
-http://190.83.2.178:8013/play/a045/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN
-http://190.83.2.178:8013/play/a056/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Deportes", TUDN USA
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN
+#EXM3U
 #EXTINF:-0, tvg-logo="logo" tvg-name="Universal Premiere" group-title="Universal+", Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
-https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTM3U
+#EXTINF:-0, tvg-logo="logo" tvg-name="CanalVIX" group-title="Univision Now", Canal VIX
+https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision East" group-title="Univision Now", Galavision East
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="Galavision West" group-title="Univision Now", Galavision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="logo" tvg-name="Univision247" group-title="Univision Now", Noticias Univision 24/7
+https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8?0GKUSH_R4IN
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png" tvg-name="TUDN" group-title="Univision Now", TUDN USA
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas East" group-title="Univision Now", Unimás East
 https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimas West" group-title="Univision Now", Unimás West
@@ -131,73 +708,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ww/wgbo-tv-us-in.svg" tvg-name="WGBO" group-title="Univision Now", Univision 66 Chicago WGBO
 https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola" group-title="Musica", Video Rola
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="VideoRola+" group-title="Musica", Video Rola+
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, tvg-logo="logo" tvg-name="ZonaTUDN" group-title="Univision Now", Zona TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
-#EXTM3U
-#EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A&E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
-https://live-atv-cdn.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?0GKUSH_R4IN
-#EXTM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="NBA TV" group-title="Cignal TV", NBA TV Philippines
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
-#EXTM3U
-#EXTINF:-0 tvg-logo="logo" tvg-name="AMC" group-title="ANTIK",AMC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN" group-title="ANTIK", AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN Black" group-title="ANTIK", AXN Black
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN White" group-title="ANTIK", AXN White
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="CrimeInvestigation" group-title="ANTIK",Crime & Investigation
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="Disney Channel" group-title="ANTIK", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="DisneyJr" group-title="ANTIK", Disney Jr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="H2" group-title="ANTIK", H2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="History" group-title="ANTIK", History
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="NickJr" group-title="ANTIK", Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="Nick" group-title="ANTIK", Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="NickToons" group-title="ANTIK", Nicktoon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
 #EXTVLCOPT:adult-content=1
