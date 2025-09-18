@@ -84,6 +84,8 @@ https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="LOGO", NBC SPORTS PHILADELPHIA
+http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
 #EXTM3U
@@ -598,8 +600,6 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="Musica" group-logo="logo" tvg-logo="logo", ExaTV
-https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
 http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola
