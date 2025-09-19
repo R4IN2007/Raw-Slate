@@ -601,7 +601,7 @@ insert mpd?0GKUSH_R4IN
 insert mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
-http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
+https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
