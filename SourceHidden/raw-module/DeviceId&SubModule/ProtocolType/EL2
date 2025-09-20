@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:2504
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.810856,
+http://mx1.gt-app.com/protegiidos/17_2504.ts
+#EXTINF:9.175856,
+http://mx1.gt-app.com/protegiidos/17_2505.ts
+#EXTINF:10.010033,
+http://mx1.gt-app.com/protegiidos/17_2506.ts
+#EXTINF:10.810833,
+http://mx1.gt-app.com/protegiidos/17_2507.ts
+#EXTINF:9.175867,
+http://mx1.gt-app.com/protegiidos/17_2508.ts
+#EXTINF:10.010033,
+http://mx1.gt-app.com/protegiidos/17_2509.ts
