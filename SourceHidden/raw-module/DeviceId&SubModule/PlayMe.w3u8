@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-0, group-title="PlayMe ARG" group-logo="logo" tvg-logo="logo", A&E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a87970b6b0994a6b9409476676d6f89d":"066b61571378fe95578a6cce77a95710"}
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://apps.playme.com.ar/|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://apps.playme.com.ar/dash/CH_A_E/playlist.mpd?0GKUSH_R4IN
