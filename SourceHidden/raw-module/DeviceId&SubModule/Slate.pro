@@ -672,7 +672,7 @@ https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c4195cbf48c0ca48c6f/dash-drm.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a87970b6b0994a6b9409476676d6f89d":"066b61571378fe95578a6cce77a95710"}
 https://apps.playme.com.ar/dash/CH_A_E/playlist.mpd?csi=64373330303036642d323433302d343061632d383532342d383132643532343436653661235745422331373537353238383838?0GKUSH_R4IN
-#EXM3U
+#EXTM3U
 #EXTINF:-0, group-title="Universal+" group-logo="logo" tvg-logo="logo" , Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
