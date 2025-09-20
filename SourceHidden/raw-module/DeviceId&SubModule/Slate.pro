@@ -78,6 +78,11 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , Canal Fox | Somos Fox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50c09a6c420603dac29f430d3419bc51":"a8a53a9a0db797a9b832302d874d5df3"}
+https://cdn-calisports-pri-01.vos360.video/Content/Channel/0cbfa3e8-7850-45bb-8538-0b8c1d2935d4/DASH/master.mpd?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
@@ -600,8 +605,6 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
-https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
