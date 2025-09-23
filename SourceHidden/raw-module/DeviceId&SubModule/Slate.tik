@@ -55,23 +55,45 @@ https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes" group-logo="logo" , AYM HD
-https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png" tvg-name="AZ Clic" group-title="Entretenimiento",AZ Clic
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png", AZ Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png" tvg-name="AZ Corazon" group-title="Entretenimiento",AZ Corazon
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png", AZ Corazon
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png" tvg-name="Azteca Uno -1 hora" group-title="Entretenimiento",Azteca Uno -1hr
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png", Azteca Uno -1Hora
 https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png" tvg-name="AZ Mundo" group-title="Entretenimiento",Azteca Internacional
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen-informativa-mx.png" tvg-name="IMAGEN+" group-title="Entretenimiento", Imagen+
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Cine Claro
+http://45.5.119.97:12500/play/a02c/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Cine Latino
+http://45.5.119.97:12500/play/a06v/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Cinemax
+http://45.5.119.97:12500/play/a06w/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Comedy Central
+http://45.5.119.97:12500/play/a05x/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", DePelicula
+http://45.5.119.97:12500/play/a07y/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", DHE
+http://45.5.119.97:12500/play/a03o/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen-informativa-mx.png", Imagen+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo" tvg-name="Max Anime" group-title="Entretenimiento", Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png" tvg-name="Unimás" group-title="Entretenimiento", Unimás
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", MTV
+http://45.5.119.97:12500/play/a06r/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Multicinema
+http://45.5.119.97:12500/play/a04s/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Multipremier
+http://45.5.119.97:12500/play/a06u/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", RCN Novelas
+http://45.5.119.97:12500/play/a04d/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Sun Channel
+http://45.5.119.97:12500/play/a04h/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
+#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes" group-logo="logo" , AYM HD
+https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Claro Sports
 http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Esports Max
@@ -80,12 +102,16 @@ https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+https://aegis-cloudfront-1.tubi.video/0d2ea257-ada0-4b84-9247-ce1c53eb3f1d/playlist.m3u8
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
 http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Marquee Sports Network
+https://cors-proxy.cooks.fyi/https://marqueesports.global.transmit.live/hls/67cb394e6ef201b4705ce294/hls-itc/marquee1/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Tigo Sports
 http://45.5.119.97:12500/play/a05q/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
@@ -706,6 +732,12 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo", Zona TUDN
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
+#EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 10 Wichita KS (KAKE-DT1) [NOT24/7]
+https://live.field59.com/kake/kake1/chunklist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 13 Anchorage AK (KYUR-DT1) [NOT24/7]
+https://live.field59.com/kyur/kyur1/chunklist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="USA Local" tvg-logo="logo", FOX 22 Bangor ME (WFVX-LD) [NOT24/7]
+https://live.field59.com/wvii/wvii1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", Philadelphia Local
 http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTM3U
