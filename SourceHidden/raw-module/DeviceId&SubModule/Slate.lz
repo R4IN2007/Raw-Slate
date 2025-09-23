@@ -89,6 +89,18 @@ http://45.5.119.97:12500/play/a06u/index.m3u8?0GKUSH_R4IN
 http://45.5.119.97:12500/play/a04d/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Sun Channel
 http://45.5.119.97:12500/play/a04h/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Cinema Este HD
+http://45.5.119.97:12500/play/a07i/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Comedy HD
+http://45.5.119.97:12500/play/a064/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Crime HD
+http://45.5.119.97:12500/play/a063/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Premiere HD
+http://45.5.119.97:12500/play/a060/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Premiere Oeste HD
+http://45.5.119.97:12500/play/a061/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Reality HD
+http://45.5.119.97:12500/play/a062/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
