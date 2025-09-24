@@ -815,11 +815,11 @@ https://live.field59.com/wvii/wvii1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", Philadelphia Local
 http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="XXX" tvg-logo="logo", Playboy Channel LATAM
+#EXTINF:-0, group-title="XXX-NSFW" tvg-logo="logo", Playboy Channel LATAM
 http://45.5.119.97:12500/play/a02b/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="XXX" tvg-logo="logo", Pigoo (NSFW)
+#EXTINF:-0, group-title="XXX-NSFW" tvg-logo="logo", Pigoo (NSFW)
 https://ca01.utako.moe/pigoo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-0, group-title="XXX" tvg-logo="logo", Venus
+#EXTINF:-0, group-title="XXX-NSFW" tvg-logo="logo", Venus
 http://45.5.119.97:12500/play/a04u/index.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
