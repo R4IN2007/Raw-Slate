@@ -116,6 +116,8 @@ https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 https://aegis-cloudfront-1.tubi.video/0d2ea257-ada0-4b84-9247-ce1c53eb3f1d/playlist.m3u8
+#EXTINF:-0, group-title="Deportes"  tvg-logo="logo" , FUTV CR
+http://45.5.119.97:12500/play/a066/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", ITV Deportes
 https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
@@ -124,6 +126,8 @@ https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN
 http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Marquee Sports Network
 https://cors-proxy.cooks.fyi/https://marqueesports.global.transmit.live/hls/67cb394e6ef201b4705ce294/hls-itc/marquee1/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", PX Sports
+http://45.5.119.97:12500/play/a04m/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Tigo Sports
 http://45.5.119.97:12500/play/a05q/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
@@ -664,34 +668,92 @@ https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/ind
 #EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS Create" group-title="PBS Local", PBS Create
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Eastern
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Pacific
+https://cors-proxy.cooks.fyi/https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Create
 https://cors-proxy.cooks.fyi/https://create.lls.pbs.org/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS FNX" group-title="PBS Local", PBS FNX
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS FNX
 https://cors-proxy.cooks.fyi/https://fnx.lls.pbs.org/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS NHK Japan World" group-title="PBS Local", PBS NHK Japan World
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS NHK Japan World
 https://cors-proxy.cooks.fyi/https://nhk.lls.pbs.org/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS World" group-title="PBS Local", PBS World
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS World
 https://cors-proxy.cooks.fyi/https://world.lls.pbs.org/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", PBS KERA (KERA-DT1)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KERA (KERA-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f04f65dfa8f747cf9c22124590d9c07f":"4f9d4405ec2c618d0be09b6712ad3e86"}
 https://cors-proxy.cooks.fyi/https://keradt.lls.pbs.org/out/v1/1e7b1562e03e437f82089ed56b410c1e/dash-drm.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS KERA" group-title="PBS Local", KERA Create (KERA-DT3)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", KERA Create (KERA-DT3)
 https://cors-proxy.cooks.fyi/https://keradt3.lls.pbs.org/keradt3-hls.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", PBS WKNO (WKNO-DT1)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET (WKLE-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5759f75634e94a5980bce546c72378ef":"11fa69ff9c5a7d21614a33f8925214b1"}
+https://cors-proxy.cooks.fyi/https://wkledt.lls.pbs.org/out/v1/be88bb7ee227444f9368e5e161ca2987/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET2 (WKLE-DT2)
+https://cors-proxy.cooks.fyi/https://wkledt2.lls.pbs.org/wkledt2-hls.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET KY (WKLE-DT3)
+https://cors-proxy.cooks.fyi/https://wkledt3.lls.pbs.org/wkledt3-hls.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET2
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET KY
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KET Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KLCS (KLCS-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b2fe64bda6d04948bdc5cb29c918f28e":"84c1d1ee4721d1168477badab89ad679"}
+https://cors-proxy.cooks.fyi/https://klcsdt.lls.pbs.org/out/v1/264e5f8fab5d4ac8aa833272f23a0861/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KLCS Create (KLCS-DT3)
+https://cors-proxy.cooks.fyi/https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KRMA (KRMA-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e9d50fff0f104a8181731a880fba244d":"2d5ddbdcf81ac8b9c0a306145a925770"}
+https://cors-proxy.cooks.fyi/https://krmadt.lls.pbs.org/out/v1/239e3afea2ad4574a112bd5d8c717353/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Create Rocky Mountains
+https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/db135313ca9f44d49c0e9e71e89dc761/CMAF_HLS/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Kids Rocky Mountains
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS World Rocky Mountains
+https://ef12a945743b4a46.mediapackage.us-west-2.amazonaws.com/out/v1/8f2cd51f46db45708ad703a8968a904d/CMAF_HLS/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS KUON (KUON-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c49f9d33e3bc4c529abc6b77f21d0d14":"f88186658fcc977617b2ac842dba52e0"}
+https://cors-proxy.cooks.fyi/https://kuondt.lls.pbs.org/out/v1/7b9f392188144a1f92c53b1d78584297/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Nebraska Public Media World
+https://d3bpna7ua68cn6.cloudfront.net/out/v1/bfe93f9852004ad199ed69890cfa8784/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS WGBH (WGBH-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2518b47015794a9ca8e7f6a7d81dadb0":"b2c744818e10c6f7130855abbbbdd663"}
+https://cors-proxy.cooks.fyi/https://wgbhdt.lls.pbs.org/out/v1/fc994cd4c0854f6baaa84d551494352d/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS WGBH World
+https://d2f96gmbl6rcn.cloudfront.net/out/v1/7b57d37759cf40f791a1a07b93a9e7fc/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS WKNO (WKNO-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5db6ca2f5c194e2c96c2073c72bc514f":"4670dd8c8f19fff96c126539fff93ef7"}
 https://cors-proxy.cooks.fyi/https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS WKNO" group-title="PBS Local", WKNO2 (WKNO-DT2)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", WKNO2 (WKNO-DT2)
 https://cors-proxy.cooks.fyi/https://wknodt2.lls.pbs.org/wknodt2-hls.m3u8?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="PBS Kids WKNO" group-title="PBS Local", PBS Kids WKNO (WKNO-DT3)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Kids WKNO (WKNO-DT3)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
 https://cors-proxy.cooks.fyi/https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081&0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="logo" tvg-name="MPB WMPN" group-title="PBS Local", MPB WMPN (WMPN-DT1)
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS WPSU (WSPU-DT1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a910e23c9144a32a7a381e4c264c1da":"68de863db5a940d2fc4e6c32ee3cdc99"}
+https://cors-proxy.cooks.fyi/https://wpsudt.lls.pbs.org/out/v1/6d87709086d44c8d820ba3b7ff85b4de/dash-drm.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Kids WPSU (WPSU-DT4)
+https://livestream.pbskids.org/v1/master/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-hls/14507d931bbe48a69287e4850e53443c/est.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="PBS Local" tvg-logo="logo", MPB WMPN (WMPN-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2b4510e4e71142f3b6c8586efecaf32f":"dc563b5767d4912ce857be926dee3295"}
@@ -753,15 +815,27 @@ https://live.field59.com/wvii/wvii1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", Philadelphia Local
 http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTM3U
+#EXTINF:-0, group-title="XXX" tvg-logo="logo", Playboy Channel LATAM
+http://45.5.119.97:12500/play/a02b/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="XXX" tvg-logo="logo", Pigoo (NSFW)
+https://ca01.utako.moe/pigoo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-0, group-title="XXX" tvg-logo="logo", Venus
+http://45.5.119.97:12500/play/a04u/index.m3u8?0GKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
 http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola
+#EXTINF:-0, group-title="Musica" tvg-logo="logo",Video Rola
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", HTV
+http://45.5.119.97:12500/play/a04p/index.m3u8?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] Rei Kamiki 神木麗
+#EXTINF:0 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
+#EXTVLCOPT:adult-content=1
+https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/34g8h1m2ng4w4kA576vp621w97Ztth36jctdn7011h3s6s99dxbnm.m3u8?0GKUSH_R4IN
+#EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", [STARS-818] REI KAMIKI 神木麗
 #EXTVLCOPT:adult-content=1
 https://dba738b5.dreampulse88.site/blah3/XEn0ezAAjwPK3UvwUqJFN9i2gkxqx4JGA7fX9gSajRIAzA/video.m3u8?0GKUSH_R4IN
