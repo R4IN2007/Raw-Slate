@@ -108,6 +108,8 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3
 https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Claro Sports
 http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Claro Sports México | GEO
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Esports Max 2 | Rek TV
@@ -132,6 +134,18 @@ http://45.5.119.97:12500/play/a04m/index.m3u8?0GKUSH_R4IN
 http://45.5.119.97:12500/play/a05q/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Sport1 DE | GEO
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Sportitalia
+https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Deportes" tvg-logo="logo", Sportitalia Solo Calcio
+https://edge-003.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8?0GKUSH_R4IN 
+#EXTM3U
+#EXTINF:-0, group-title="France" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d49c8fa0c3a546e2ad4185d5e38611cd":"363ee79a774e401bfaa88cf22cad0099"}
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd?dvr_window_length=14400?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -806,6 +820,9 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo", Zona TUDN
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
+#EXTINF:-0, group-title="United Kingdom" tvg-logo="logo", Blaze UK | GEO
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN
+#EXTM3U
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 10 Wichita KS (KAKE-DT1) [NOT24/7]
 https://live.field59.com/kake/kake1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 13 Anchorage AK (KYUR-DT1) [NOT24/7]
@@ -815,11 +832,11 @@ https://live.field59.com/wvii/wvii1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", Philadelphia Local
 http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="Privado" tvg-logo="logo", Playboy Channel LATAM
+#EXTINF:-0, group-title="NSFW" tvg-logo="logo", Playboy Channel LATAM
 http://45.5.119.97:12500/play/a02b/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Privado" tvg-logo="logo", Pigoo (NSFW)
+#EXTINF:-0, group-title="NSFW" tvg-logo="logo", Pigoo (NSFW)
 https://ca01.utako.moe/pigoo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-0, group-title="Privado" tvg-logo="logo", Venus
+#EXTINF:-0, group-title="NSFW" tvg-logo="logo", Venus
 http://45.5.119.97:12500/play/a04u/index.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
