@@ -1,50 +1,70 @@
 #EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
 #EXTM3U
-#EXTINF:-0 tvg-logo="logo" tvg-name="AMC" group-title="Antik SK",AMC
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo",AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN" group-title="Antik SK", AXN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Arena Sport 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Arena Sport 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN Black" group-title="Antik SK", AXN Black
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN Black
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="AXN White" group-title="Antik SK", AXN White
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN White
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="CrimeInvestigation" group-title="Antik SK",Crime & Investigation
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Cinemax 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="Disney Channel" group-title="Antik SK", Disney Channel
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Discovery
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="DisneyJr" group-title="Antik SK", Disney Jr
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="H2" group-title="Antik SK", H2
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", H2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="History" group-title="Antik SK", History
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="NickJr" group-title="Antik SK", Nick Jr
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="Nick" group-title="Antik SK", Nickelodeon
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN
-#EXTINF:-0 tvg-logo="logo" tvg-name="NickToons" group-title="Antik SK", Nicktoon
+#EXTINF:-0, group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nicktoon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
@@ -104,7 +124,7 @@ http://45.5.119.97:12500/play/a062/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports" group-title="Deportes" group-logo="logo" , AYM HD
+#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports", AYM HD
 https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Claro Sports
 http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN
