@@ -81,6 +81,12 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"6cf551b65ef233dda7ef03cee8bf4408":"ee3debba9d8acbb31e622edb62ede595"}
 https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN
 #EXTM3U
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", A&E HD
+http://45.5.119.97:12500/play/a03i/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Adult Swim
+http://45.5.119.97:12500/play/a02q/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", AMC
+http://45.5.119.97:12500/play/a03j/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_clic_mx.png", AZ Clic
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_corazon_mx.png", AZ Corazon
@@ -89,6 +95,10 @@ https://azt-cz.otteravision.com/azt/cz/cz.m3u8?0GKUSH_R4IN
 https://azt-oo-runtime.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_9.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/aa/az_mundo_mx.png", Azteca Internacional
+http://45.5.119.97:12500/play/a058/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", AXN
+http://45.5.119.97:12500/play/a031/index.m3u8?0GKUSH_R4IN 
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Cine Claro
 http://45.5.119.97:12500/play/a02c/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Cine Latino
@@ -115,6 +125,8 @@ http://45.5.119.97:12500/play/a06u/index.m3u8?0GKUSH_R4IN
 http://45.5.119.97:12500/play/a04d/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Sun Channel
 http://45.5.119.97:12500/play/a04h/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", TV Azteca Guate
+http://45.5.119.97:12500/play/a04x/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Cinema Este HD
 http://45.5.119.97:12500/play/a07i/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", Universal Comedy HD
@@ -873,12 +885,18 @@ http://45.5.119.97:12500/play/a04u/index.m3u8?0GKUSH_R4IN
 https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", ExaTV
 http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="Musica" tvg-logo="logo",Video Rola
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
-#EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
-https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", MTV 00s
+http://45.5.119.97:12500/play/a05z/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", MTV Hits
+http://45.5.119.97:12500/play/a02z/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", MTV Live
+http://45.5.119.97:12500/play/a05y/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Musica" tvg-logo="logo", HTV
 http://45.5.119.97:12500/play/a04p/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Musica" tvg-logo="logo",Video Rola
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="Musica" tvg-logo="logo", Video Rola+
+https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_PLUS_HD/master.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:0 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
 #EXTVLCOPT:adult-content=1
