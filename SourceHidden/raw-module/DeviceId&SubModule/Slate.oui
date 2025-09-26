@@ -823,12 +823,16 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:-0, group-title="United Kingdom" tvg-logo="logo", Blaze UK | GEO
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN
 #EXTM3U
+#EXTINF:-0, group-title="USA Entertainment" tvg-logo="logo", BYUtv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"85877dfc046947328b273987bf8d5bb8":"c465f8a7b9db273043154005021d44b7"}
+https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.mpd
+#EXTM3U
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 10 Wichita KS (KAKE-DT1) [NOT24/7]
 https://live.field59.com/kake/kake1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", ABC 13 Anchorage AK (KYUR-DT1) [NOT24/7]
 https://live.field59.com/kyur/kyur1/chunklist.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="USA Local" tvg-logo="logo", FOX 22 Bangor ME (WFVX-LD) [NOT24/7]
-https://live.field59.com/wvii/wvii1/chunklist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="USA Local" tvg-logo="logo", Philadelphia Local
 http://72.94.88.253:54321?0GKUSH_R4IN
 #EXTM3U
