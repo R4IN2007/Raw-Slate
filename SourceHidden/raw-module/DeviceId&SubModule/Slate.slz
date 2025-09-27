@@ -75,11 +75,351 @@ https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo" , A&E HD
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", A&E HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6cf551b65ef233dda7ef03cee8bf4408":"ee3debba9d8acbb31e622edb62ede595"}
 https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
+#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"KID":"KEY"}
+mpd?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="logo", A&E HD
 http://45.5.119.97:12500/play/a03i/index.m3u8?0GKUSH_R4IN
@@ -178,6 +518,11 @@ https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8?0GKUSH_R4IN
 https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Sportitalia Solo Calcio
 https://edge-003.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8?0GKUSH_R4IN 
+#EXTINF:-0, group-title="EVENTOS" tvg-logo="logo", CONCERT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1defc1f4dfff3600aecef5d45a28c937":"ccd102a9ea2396bc62508c25ae862f06"}
+https://d2scohsz9m5dj5.cloudfront.net/out/v1/464a8987b971406a8fcfed9d5ab87fbd/5d061aabb5bc4b238ffdad8a49ce1b74/d66554beaa3e4ada96d8f5ce9bb5f6b1/widevine-cmaf-avc.m3u8
 #EXTM3U
 #EXTINF:-0, group-title="France" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg" , Novo19
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -696,28 +1041,28 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png" tvg-name="MGM+" group-title="MGM+", MGM+
+#EXTINF:-0, group-title="MGM+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png", MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34bbe1d5cad94e81a2f2eb3275611f85":"7e6a42fbe78e7ff8c20cb4eeb475ed17"}
 https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-hits-us.png" tvg-name="MGM+ Hits" group-title="MGM+", MGM+ Hits
+#EXTINF:-0, group-title="MGM+" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-hits-us.png", MGM+ Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2e177abdd25b476dbb474fa7c2ee76b3":"dc43cb2d4bd48774ef9620fda1158060"}
 https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-drive-in-us.png" tvg-name="MGM+ Drive-In" group-title="MGM+", MGM+ Drive-In
+#EXTINF:-0, group-title="MGM+" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-drive-in-us.png", MGM+ Drive-In
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2aa5443eab3841fca0804ed7df621e21":"f6337da72d318e72e77742c7f8d2e698"}
 https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd?0GKUSH_R4IN
-#EXTINF:-0, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" tvg-name="MGM+ Marquee" group-title="MGM+", MGM+ Marquee
+#EXTINF:-0, group-title="MGM+" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png", MGM+ Marquee
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f2032b4cae944a0adf5ce111a2ff693":"2b4a2855b0abde035714985be6db4bd0"}
 https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, tvg-logo="logo" tvg-name="Telediario Now" group-title="Noticias", Telediario Now
+#EXTINF:-0, group-title="Noticias" tvg-logo="logo", Telediario Now
 https://mul-tldn.otteravision.com/mul/tldn/tldn.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="PBS Local" tvg-logo="logo", PBS Eastern
