@@ -482,7 +482,10 @@ http://45.5.119.97:12500/play/a062/index.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
-#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png" tvg-name="AYM Sports", AYM HD
+#EXTINF:-0, group-title="Dens.TV" tvg-logo="logo", Rock Entertainment
+http://103.197.188.223:12000/https://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8?0GKUSH_R4IN
+#EXTM3U
+#EXTINF:-0, group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png", AYM HD
 https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN
 #EXTINF:-0, group-title="Deportes" tvg-logo="logo", Claro Sports
 http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN
@@ -1198,8 +1201,8 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:-0, group-title="Univision Now" group-logo="https://i.ibb.co/PGLqGZ17/492x0w.webp" tvg-logo="logo", Zona TUDN
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="United Kingdom" tvg-logo="logo", Blaze UK | GEO
-https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN
+#EXTINF:-0, group-title="United Kingdom" tvg-logo="logo", Blaze UK
+https://cors.almoroj.com/https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN
 #EXTM3U
 #EXTINF:-0, group-title="USA Entertainment" tvg-logo="logo", BYUtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
