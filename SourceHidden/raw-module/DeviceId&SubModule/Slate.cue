@@ -1036,131 +1036,131 @@ insert mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_key={"c1":"c1"}
 insert mpd?0GKUSH_R4IN
 #EXTM3U
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", MLB NETWORK
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", MLB NETWORK
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/364.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", FOX SPORTS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", FOX SPORTS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/434.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", ARIZONA DIAMONDBACKS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", ARIZONA DIAMONDBACKS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/365.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", ATLANTA BRAVES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", ATLANTA BRAVES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/366.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", BALTIMORE ORIOLES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", BALTIMORE ORIOLES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/367.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", BOSTON RED SOX
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", BOSTON RED SOX
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/368.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", CHICAGO CUBS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", CHICAGO CUBS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/483.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", CHICAGO WHITE SOX
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", CHICAGO WHITE SOX
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/370.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", CINCINNATI REDS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", CINCINNATI REDS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/371.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", CLEVELAND GUARDIANS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", CLEVELAND GUARDIANS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/372.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", COLORADO ROOKIES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", COLORADO ROOKIES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/373.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", DETROIT TIGERS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", DETROIT TIGERS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/374.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", HOUSTON ASTROS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", HOUSTON ASTROS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/375.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", KANSAS CITY ROYALS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", KANSAS CITY ROYALS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/376.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", LOS ANGELES ANGELS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", LOS ANGELES ANGELS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/377.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", LOS ANGELES DODGERS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", LOS ANGELES DODGERS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/394.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", MIAMI MARLINS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", MIAMI MARLINS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/378.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", MILWAUKEE BREWERS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", MILWAUKEE BREWERS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/379.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", MINNESOTA TWINS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", MINNESOTA TWINS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/380.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", NEW YORK METS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", NEW YORK METS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/381.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", NEW YORK YANKEES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", NEW YORK YANKEES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/382.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", OAKLAND ATHLETICS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", OAKLAND ATHLETICS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/383.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", PHILADELPHIA PHILLIES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", PHILADELPHIA PHILLIES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/384.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", PITTSBURGH PIRATES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", PITTSBURGH PIRATES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/385.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", SAN DIEGO PADRES
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", SAN DIEGO PADRES
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/386.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", SAN FRANCISCO GIANTS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", SAN FRANCISCO GIANTS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/387.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", SEATTLE MARINERS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", SEATTLE MARINERS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/388.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", SAN LOUIS CARDINALS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", SAN LOUIS CARDINALS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/389.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", TAMPA BAY RAYS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", TAMPA BAY RAYS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/390.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", TEXAS RANGERS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", TEXAS RANGERS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/391.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", TORONTO BLUE JAYS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", TORONTO BLUE JAYS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/392.m3u8?0GKUSH_R4IN
-#EXTINF:-0, group-title="MLB WEBCAST" group-logo="logo" tvg-logo="logo", WASHINGTON NATIONALS
+#EXTINF:-0, group-title="MLB WebCast" group-logo="logo" tvg-logo="logo", WASHINGTON NATIONALS
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/393.m3u8?0GKUSH_R4IN
