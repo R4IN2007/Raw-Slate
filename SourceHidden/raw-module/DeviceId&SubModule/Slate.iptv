@@ -73,13 +73,13 @@ https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd?0GKUSH_R4IN
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #EXTM3U
-#EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", A&E HD
+#EXTINF:-0, group-title="ClaroTV BR | [NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", A&E HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6cf551b65ef233dda7ef03cee8bf4408":"ee3debba9d8acbb31e622edb62ede595"}
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN
+http://144.22.222.241:8080/https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN
 #EXTINF:-0, group-title="ClaroTV BR | GEO [CONTEÚDO ILEGAL: NÃO AUTORIZADA DE CONTEÚDO PROTEGIDO POR PROVEDOR]" tvg-logo="logo", 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
