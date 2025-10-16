@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" refresh="69" list-name="IPTV M3U"
+#EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! [ANY RESELLERS WILL BE TRACKED DOWN]" max-conn="1" list-name="IPTV M3U"
 #EXTM3U
 #EXTINF:-1, group-title="Antik SK" group-logo="logo" tvg-logo="logo",AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
