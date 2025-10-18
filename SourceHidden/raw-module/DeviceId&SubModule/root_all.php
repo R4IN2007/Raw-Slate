@@ -165,6 +165,10 @@ https://val04.ride.com.ar/tvmia/an353/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Deportes" tvg-logo="logo", Esports Max 2 | Rek TV
 https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
 https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
@@ -191,15 +195,7 @@ https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8?0GKUSH_R4IN&DONTSTE
 https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sportitalia Solo Calcio
 https://edge-003.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win+ Fútbol
-https://mdstrm.com/live-stream-playlist/529cff6f6bd2ea6b610000e0.m3u8?0GKUSH_R4IN&DONTSTEAL&access_token=s7BgWki1rYH50zld77Mm9x4Y0LMaa9J47LbxlIZaZb5oZ8IxMi3A5nMHK6FvNrv6LCkRICBi4k5
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Sports
-https://mdstrm.com/live-stream-playlist/5265a8f3af1ecb9d320000ee.m3u8?0GKUSH_R4IN&DONTSTEAL&access_token=2fUf1sfqWv52ZfbMIBy5DKIlqOnEtPmSW4Cpn07q31zkj9xU98KooWBGNtSWJYoXUZRrl9C5fYz
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Play 2
-https://mdstrm.com/live-stream-playlist/66bcd350d222a8a780862ec3.m3u8?0GKUSH_R4IN&DONTSTEAL&access_token=nAvY9yqa72Z11ujf9J5OhRj7ZVk6C5MWDo1kwqHyZo2uiDivDrrlH4lml3qUfOiDBib6qrorxAM
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Play 3
-https://mdstrm.com/live-stream-playlist/6840b8cb568ca91805490e9f.m3u8?0GKUSH_R4IN&DONTSTEAL&access_token=GZh6WhvOS99zrJzdYkYKkXgUVsWPhExUGF69Ci5VghG7p6vYTZ1Lbfc4lX9s1UR9f4U1x81jnuh
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Audio (No Video)
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Audio | GEO (No Video)
 https://mdstrm.com/audio/68531acded49f159d27dc597/live.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="France" tvg-logo="https://www.lyngsat.com/logo/tv/nn/novo-19-fr.svg", Novo19
@@ -233,6 +229,99 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULTSWIM-HD/default.mpd?0GKUSH_R4IN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"97cfeda35c2f42d6c2be729ea2945b12":"59c1f3c384bd0a25e817539d5fe6e24b"}
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/AMCHD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", 5tv Cozumel (XHCOZ-TDT)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", 8NTV (XHNTV-TDT)
+https://5e50264bd6766.streamlock.net/ntv/smil:ntv.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", 15tv Sabinas (XHSDD-TDT)
+https://cdn.fastocloud.com/leonel.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", ADN40
+https://mdstrm.com/live-stream-playlist/649cc9e1f64207086e2ea343.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 7 SLP (XHSLV-TDT) NOT24/7
+https://mvtvstream.com:444/live/68b9bf95c5c51/index.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal Ocho 8.1 Baja California Sur (XHBZC-TDT)
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal Ocho 8.1 Baja California Sur (XHBZC-TDT2)
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 10 Chiapas (XHTTG-TDT)
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal Once (XEIPN-TDT)
+https://s5.mexside.net:1936/stream/stream/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Once Digital
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 12 ICRTV Colima (XHCPAL-TDT)
+https://5fc584f3f19c9.streamlock.net:443/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 15 TV Durango (XHFGL-TDT)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 24 SIZART Zacatecas (XHZHZ-TDT)
+https://5f2c1b0d880e5.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 26 Aguascalientes (XHCGA-TDT)
+https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 28 Nuevo Leon (XHMNL-TDT)
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 33 Tijuana (XHAS-TDT)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 44 Ciudad Juarez (XHIJ-TDT)
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 44 Alt -2 Delay Chihuahua (XHIJ-TDT2)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal 66 Mexicali (XHILA-TDT1)
+https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Capital 21 (XHCDM-TDT)
+https://video.cdmx.gob.mx/redes/stream.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Canal Cultural Huauchinango
+https://micanal.ovh/livestreams/223.FDIDOGXYZQXO.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Expresa TV (XHCEP-TDT)
+https://5ca9af4645e15.streamlock.net/teleradio/teleradio.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", MyTime Movie Network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Mexiquense Televisión 34.1 (XHGEM-TDT)
+https://5f1af61612fb5.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Mexiquense Televisión 34.2
+https://5fe2654d6127d.streamlock.net:443/mexiquense2/videomexiquense2/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Primer Sistema de Noticias Canal 45.1
+https://srspsn.live/live/livestream.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Primer Sistema de Noticias Canal 45.2
+https://srspsn2.live/live/livestream.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Radio y Televisión de Guerrero RTG (XHCPFU-TDT)
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Radio y Televisión Querétaro RTQ (XHSECE-TDT)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", SICOM Televisión 16.1 (XHPBZC-TDT)
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", SICOM Televisión 16.2
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Sistema Michoacano de Radio y Televisión SMRTV
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Telemax (XEWH-TDT)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", Tlaxcala Televisión (XHTLX-TDT)
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.1 (XHLEG-TDT)
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.2 (XHLEG-TDT2)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.3 (XHLEG-TDT3)
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.3 (XHLEG-TDT4)
+https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV Lobo (XHUAD-TDT)
+https://5ca9af4645e15.streamlock.net:443/lobodurango/videolobodurango/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TVMás (XHCPEO-TDT)
+https://5f1af61612fb5.streamlock.net/rtv/videortv/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV UJAT (XHUJAT-TDT)
+https://5fe2654d6127d.streamlock.net/ujat/videoujat/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TV UNAM
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TVP Culiacan (XHQ-TDT)
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TVP Mazatlan (XHMZ-TDT)
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
+#EXTINF:-1, group-title="Mexico" tvg-logo="logo", TVP Obregon (XHI-TDT)
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="MGM+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65687_dark_360w_270h.png", MGM+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -558,6 +647,23 @@ http://4.59.210.197:8815/udp/127.0.0.1:6008?0GKUSH_R4IN&DONTSTEAL
 http://4.59.210.197:8815/udp/127.0.0.1:6009?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Local" tvg-logo="logo", Philadelphia Restream
 http://72.94.88.253:54321?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="USANewsON" tvg-logo="logo", CNN
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://s4.usnlive.com/stream/cnn.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USANewsON" tvg-logo="logo", Fox News Channel
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://s4.usnlive.com/stream/foxnews.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USANewsON" tvg-logo="logo", MSNBC
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://s9.usnlive.com/stream/msnbc.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USANewsON" tvg-logo="logo", OAN Network
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://s0.usnlive.com/stream/oann.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Playboy Channel LATAM
 http://45.5.119.97:12500/play/a02b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
