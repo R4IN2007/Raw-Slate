@@ -304,7 +304,7 @@ https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?0GKUSH_R4IN
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
 #EXTINF:-1 group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.3 (XHLEG-TDT3)
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
-#EXTINF:-1 group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.3 (XHLEG-TDT4)
+#EXTINF:-1 group-title="Mexico" tvg-logo="logo", TV4 Guanajuato 4.4 (XHLEG-TDT4)
 https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
 #EXTINF:-1 group-title="Mexico" tvg-logo="logo", TV Lobo (XHUAD-TDT)
 https://5ca9af4645e15.streamlock.net:443/lobodurango/videolobodurango/playlist.m3u8?0GKUSH_R4IN$DONTSTEAL
@@ -665,6 +665,12 @@ https://s9.usnlive.com/stream/msnbc.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://s0.usnlive.com/stream/oann.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="NBCUniversal" tvg-logo="logo", Universo East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3501bd323a6a35c28eb7654bf298b9aa":"2db4c8089d627e1b2c480c57baa86a7b"}
+https://g001-live-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTM3U
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Playboy Channel LATAM
 http://45.5.119.97:12500/play/a02b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Pigoo (NSFW)
@@ -817,6 +823,11 @@ https://live.webcastserver.online/hdstream/embed/392.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/393.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", noori_hope
+#EXTVLCOPT:http-referrer=https://stripchat.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://edge-hls.doppiocdn.net/hls/170741021/master/170741021_auto.m3u8?playlistType=lowLatency
 #EXTM3U
 #EXTINF:0 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
 #EXTVLCOPT:adult-content=1
